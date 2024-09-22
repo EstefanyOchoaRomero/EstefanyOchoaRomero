@@ -8,9 +8,10 @@
 - 💡 Entusiasta hipercuriosa por el mundo de la programación.
 - 🧊 3d modeling.
 
-
-
-
 ## 🥇**SKILLS** 
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,html,blender,ai,py,ps)](https://skillicons.dev)
+
+🤼🏻 Connect with me
+
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://skillicons.dev)
