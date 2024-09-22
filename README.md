@@ -1,4 +1,4 @@
-### **Hi im Estefany Ochoa!**   
+### **Hi, im Estefany Ochoa!**   
 ![giphy](https://github.com/user-attachments/assets/eadd93f9-d2eb-489a-ac0b-48d3901565c0)
 
 ## 👁️‍🗨️ About me 👁️‍🗨️
