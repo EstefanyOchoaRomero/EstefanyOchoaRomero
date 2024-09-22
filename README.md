@@ -11,6 +11,6 @@
 
 
 
-## 🥇*SKILLS** 
+## 🥇**SKILLS** 
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,html,blender,ai,py,ps)](https://skillicons.dev)
