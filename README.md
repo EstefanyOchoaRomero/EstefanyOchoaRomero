@@ -1,5 +1,2 @@
-### **Hi im Estefany**   
+### **Hi im Estefany**   ![giphy](https://github.com/user-attachments/assets/eadd93f9-d2eb-489a-ac0b-48d3901565c0)
 
-
-
-![nYZ48qJ](https://github.com/user-attachments/assets/74755ecc-b699-4d7f-a24c-1194d688e20c)
