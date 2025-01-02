@@ -11,7 +11,8 @@
 
 ## 🥇**SKILLS** 
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,html,blender,ai,py,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,blender,ai,py,ps,maven,nodejs,vscode,git,docker,postman,spring,mysql,postgresql,mongodb,jira,slack)](https://skillicons.dev)
+
 
 🤼🏻 Connect with me
 
