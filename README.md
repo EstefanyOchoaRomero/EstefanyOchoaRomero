@@ -1,10 +1,11 @@
 ### **Estefany Ochoa Romero Desarrolladora Junior Backend**   
-![giphy](https://github.com/user-attachments/assets/eadd93f9-d2eb-489a-ac0b-48d3901565c0)
+<img src="https://github.com/user-attachments/assets/eadd93f9-d2eb-489a-ac0b-48d3901565c0" alt="Ejemplo de imagen" width="200" height="200">
+
 
 ## 👁️‍🗨️ About me 👁️‍🗨️
 
 - i 💗 to explore new technologies.
-- ⚙️ Backend web developer in progress.....
+- ⚙️ Backend web developer
 - 💡 Entusiasta hipercuriosa por el mundo de la programación.
 - 🧊 3d modeling.
 
